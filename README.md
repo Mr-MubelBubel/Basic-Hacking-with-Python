@@ -13,3 +13,5 @@ I assume no liability for wrong or illegal wounding of the scripts!
 - [Portscanner](https://github.com/Mr-MubelBubel/Basic-Hacking-with-Python/tree/main/portscanner)
 - [Steel Cookies](https://github.com/Mr-MubelBubel/Basic-Hacking-with-Python/tree/main/steel-cookies-from-browser)
 - [Steel Data](https://github.com/Mr-MubelBubel/Basic-Hacking-with-Python/tree/main/steel-data)
+
+> All important informations are in the scripts.
